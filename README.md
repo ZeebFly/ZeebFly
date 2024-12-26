@@ -2,7 +2,7 @@
 
 ## 💌 Contact me on
 <p>
-   <a href="https://t.me.zeebdisini" target="blank"><img src="https://img.shields.io/badge/@excute7-30302f?style=flat&logo=telegram" /></a>
+   <a href="https://t.me.zeebdisini" target="blank"><img src="https://img.shields.io/badge/@zeebdisini-30302f?style=flat&logo=telegram" /></a>
 </p>
 
 ___
